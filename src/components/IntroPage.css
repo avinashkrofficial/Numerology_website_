@@ -1,0 +1,129 @@
+/* src/components/IntroPage.css */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.intro-body {
+  min-height: 100vh;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 1.2rem;
+  position: relative;
+  animation: fadeIn 1s ease-in-out;
+  /* background: url('/back2.png') no-repeat center center/cover; */
+  overflow: hidden;
+}
+
+.title-wrap {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0;
+  margin-bottom: 1.5rem;
+}
+
+.divya-text {
+  font-family: 'Merienda One', cursive;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 1;
+  margin-right: -20px;
+}
+
+.digits-text {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 75px;
+  line-height: 1;
+  transform: translateY(3px);
+}
+
+.zodiac-circle {
+  width: 240px;
+  margin: 1.5rem 0 60px 0;
+  animation: rotateInfinite 30s linear infinite;
+}
+
+@keyframes rotateInfinite {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.button-decode {
+  background-color: rgba(113, 66, 242, 0.7);
+  color: white;
+  font-family: 'Abhaya Libre', serif;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 0.5rem 1.3rem;
+  border-radius: 30px;
+  border: 1px solid #000000;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.button-decode:hover {
+  transform: scale(1.05);
+}
+
+.quote {
+  font-family: 'Marck Script', cursive;
+  font-size: 28px;
+  margin-top: 1.5rem;
+  color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .divya-text {
+    font-size: 60px;
+    margin-right: 0;
+  }
+
+  .digits-text {
+    font-size: 55px;
+    transform: none;
+  }
+
+  .zodiac-circle {
+    width: 200px;
+    margin: 1rem 0;
+  }
+
+  .button-decode {
+    font-size: 18px;
+    padding: 0.4rem 1rem;
+  }
+
+  .quote {
+    font-size: 20px;
+  }
+}
+
+/* Fade animations */
+.fade-out {
+  animation: fadeOut 1s forwards;
+}
+
+@keyframes fadeOut {
+  from { opacity: 1; }
+  to { opacity: 0; visibility: hidden; }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}

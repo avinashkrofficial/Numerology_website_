@@ -1,0 +1,731 @@
+[
+  {
+    "Mulank":1,
+    "Bhagyank":1,
+    "Lord_Planet":"Sun",
+    "luck":100,
+    "Qualities":"Centre of attraction, Leadership quality, king like nature, Protector for friends, Helping nature, good in communication, Revenge",
+    "Lucky_number":"1,2,3,5,6,9",
+    "Lucky_colour":"White, Red, Orange, Gold"
+  },
+  {
+    "Mulank":1,
+    "Bhagyank":2,
+    "Lord_Planet":"Sun",
+    "luck":80,
+    "Qualities":"Centre of attraction, Leadership quality, king like nature, Protector for friends, Helping nature, good in communication, Revenge",
+    "Lucky_number":"1,2,3,5",
+    "Lucky_colour":"White, Red, Orange, Gold"
+  },
+  {
+    "Mulank":1,
+    "Bhagyank":3,
+    "Lord_Planet":"Sun",
+    "luck":70,
+    "Qualities":"Centre of attraction, Leadership quality, king like nature, Protector for friends, Helping nature, good in communication, Revenge",
+    "Lucky_number":"1,2,3,5",
+    "Lucky_colour":"White, Red, Orange, Gold"
+  },
+  {
+    "Mulank":1,
+    "Bhagyank":4,
+    "Lord_Planet":"Sun",
+    "luck":70,
+    "Qualities":"Centre of attraction, Leadership quality, king like nature, Protector for friends, Helping nature, good in communication, Revenge",
+    "Lucky_number":"1,5,6",
+    "Lucky_colour":"White, Red, Orange, Gold"
+  },
+  {
+    "Mulank":1,
+    "Bhagyank":5,
+    "Lord_Planet":"Sun",
+    "luck":80,
+    "Qualities":"Centre of attraction, Leadership quality, king like nature, Protector for friends, Helping nature, good in communication, Revenge",
+    "Lucky_number":"1,2,3,5,6",
+    "Lucky_colour":"White, Red, Orange, Gold"
+  },
+  {
+    "Mulank":1,
+    "Bhagyank":6,
+    "Lord_Planet":"Sun",
+    "luck":75,
+    "Qualities":"Centre of attraction, Leadership quality, king like nature, Protector for friends, Helping nature, good in communication, Revenge",
+    "Lucky_number":"1,5,6",
+    "Lucky_colour":"White, Red, Orange, Gold"
+  },
+  {
+    "Mulank":1,
+    "Bhagyank":7,
+    "Lord_Planet":"Sun",
+    "luck":60,
+    "Qualities":"Centre of attraction, Leadership quality, king like nature, Protector for friends, Helping nature, good in communication, Revenge",
+    "Lucky_number":"1,3,5,6",
+    "Lucky_colour":"White, Red, Orange, Gold"
+  },
+  {
+    "Mulank":1,
+    "Bhagyank":8,
+    "Lord_Planet":"Sun",
+    "luck":0,
+    "Qualities":"Centre of attraction, Leadership quality, king like nature, Protector for friends, Helping nature, good in communication, Revenge",
+    "Lucky_number":"3,5,6",
+    "Lucky_colour":"White, Red, Orange, Gold"
+  },
+  {
+    "Mulank":1,
+    "Bhagyank":9,
+    "Lord_Planet":"Sun",
+    "luck":100,
+    "Qualities":"Centre of attraction, Leadership quality, king like nature, Protector for friends, Helping nature, good in communication, Revenge",
+    "Lucky_number":"1,3,5",
+    "Lucky_colour":"White, Red, Orange, Gold"
+  },
+  {
+    "Mulank":2,
+    "Bhagyank":1,
+    "Lord_Planet":"Moon",
+    "luck":90,
+    "Qualities":"Moody, Energy+Motion = Emotional,Born Healer, Listener, Caring nature, Nature lover, Artist",
+    "Lucky_number":"1,2,3,5",
+    "Lucky_colour":"White, Cream, Light yellow"
+  },
+  {
+    "Mulank":2,
+    "Bhagyank":2,
+    "Lord_Planet":"Moon",
+    "luck":40,
+    "Qualities":"Moody, Energy+Motion = Emotional,Born Healer, Listener, Caring nature, Nature lover, Artist",
+    "Lucky_number":"1,2,3,5",
+    "Lucky_colour":"White, Cream, Light yellow"
+  },
+  {
+    "Mulank":2,
+    "Bhagyank":3,
+    "Lord_Planet":"Moon",
+    "luck":50,
+    "Qualities":"Moody, Energy+Motion = Emotional,Born Healer, Listener, Caring nature, Nature lover, Artist",
+    "Lucky_number":"1,2,3,5",
+    "Lucky_colour":"White, Cream, Light yellow"
+  },
+  {
+    "Mulank":2,
+    "Bhagyank":4,
+    "Lord_Planet":"Moon",
+    "luck":20,
+    "Qualities":"Moody, Energy+Motion = Emotional,Born Healer, Listener, Caring nature, Nature lover, Artist",
+    "Lucky_number":"1,5",
+    "Lucky_colour":"White, Cream, Light yellow"
+  },
+  {
+    "Mulank":2,
+    "Bhagyank":5,
+    "Lord_Planet":"Moon",
+    "luck":60,
+    "Qualities":"Moody, Energy+Motion = Emotional,Born Healer, Listener, Caring nature, Nature lover, Artist",
+    "Lucky_number":"1,2,3,5",
+    "Lucky_colour":"White, Cream, Light yellow"
+  },
+  {
+    "Mulank":2,
+    "Bhagyank":6,
+    "Lord_Planet":"Moon",
+    "luck":45,
+    "Qualities":"Moody, Energy+Motion = Emotional,Born Healer, Listener, Caring nature, Nature lover, Artist",
+    "Lucky_number":"1,5",
+    "Lucky_colour":"White, Cream, Light yellow"
+  },
+  {
+    "Mulank":2,
+    "Bhagyank":7,
+    "Lord_Planet":"Moon",
+    "luck":45,
+    "Qualities":"Moody, Energy+Motion = Emotional,Born Healer, Listener, Caring nature, Nature lover, Artist",
+    "Lucky_number":"1,3,5",
+    "Lucky_colour":"White, Cream, Light yellow"
+  },
+  {
+    "Mulank":2,
+    "Bhagyank":8,
+    "Lord_Planet":"Moon",
+    "luck":0,
+    "Qualities":"Moody, Energy+Motion = Emotional,Born Healer, Listener, Caring nature, Nature lover, Artist",
+    "Lucky_number":"3,5",
+    "Lucky_colour":"White, Cream, Light yellow"
+  },
+  {
+    "Mulank":2,
+    "Bhagyank":9,
+    "Lord_Planet":"Moon",
+    "luck":20,
+    "Qualities":"Moody, Energy+Motion = Emotional,Born Healer, Listener, Caring nature, Nature lover, Artist",
+    "Lucky_number":"1,3,5",
+    "Lucky_colour":"White, Cream, Light yellow"
+  },
+  {
+    "Mulank":3,
+    "Bhagyank":1,
+    "Lord_Planet":"Jupiter",
+    "luck":70,
+    "Qualities":"Knowledgable, joyfull, workoholic, Talent of adaptability, Power of salesman, Different personality, Dicipline ",
+    "Lucky_number":"1,2,3,5",
+    "Lucky_colour":"Yellow, Purple"
+  },
+  {
+    "Mulank":3,
+    "Bhagyank":2,
+    "Lord_Planet":"Jupiter",
+    "luck":45,
+    "Qualities":"Knowledgable, joyfull, workoholic, Talent of adaptability, Power of salesman, Different personality, Dicipline ",
+    "Lucky_number":"1,2,3,5",
+    "Lucky_colour":"Yellow, Purple"
+  },
+  {
+    "Mulank":3,
+    "Bhagyank":3,
+    "Lord_Planet":"Jupiter",
+    "luck":60,
+    "Qualities":"Knowledgable, joyfull, workoholic, Talent of adaptability, Power of salesman, Different personality, Dicipline ",
+    "Lucky_number":"1,2,3,5",
+    "Lucky_colour":"Yellow, Purple"
+  },
+  {
+    "Mulank":3,
+    "Bhagyank":4,
+    "Lord_Planet":"Jupiter",
+    "luck":40,
+    "Qualities":"Knowledgable, joyfull, workoholic, Talent of adaptability, Power of salesman, Different personality, Dicipline ",
+    "Lucky_number":"1,5",
+    "Lucky_colour":"Yellow, Purple"
+  },
+  {
+    "Mulank":3,
+    "Bhagyank":5,
+    "Lord_Planet":"Jupiter",
+    "luck":60,
+    "Qualities":"Knowledgable, joyfull, workoholic, Talent of adaptability, Power of salesman, Different personality, Dicipline ",
+    "Lucky_number":"1,2,3,5",
+    "Lucky_colour":"Yellow, Purple"
+  },
+  {
+    "Mulank":3,
+    "Bhagyank":6,
+    "Lord_Planet":"Jupiter",
+    "luck":0,
+    "Qualities":"Knowledgable, joyfull, workoholic, Talent of adaptability, Power of salesman, Different personality, Dicipline ",
+    "Lucky_number":"1,5",
+    "Lucky_colour":"Yellow, Purple"
+  },
+  {
+    "Mulank":3,
+    "Bhagyank":7,
+    "Lord_Planet":"Jupiter",
+    "luck":80,
+    "Qualities":"Knowledgable, joyfull, workoholic, Talent of adaptability, Power of salesman, Different personality, Dicipline ",
+    "Lucky_number":"1,3,5",
+    "Lucky_colour":"Yellow, Purple"
+  },
+  {
+    "Mulank":3,
+    "Bhagyank":8,
+    "Lord_Planet":"Jupiter",
+    "luck":40,
+    "Qualities":"Knowledgable, joyfull, workoholic, Talent of adaptability, Power of salesman, Different personality, Dicipline ",
+    "Lucky_number":"3,5",
+    "Lucky_colour":"Yellow, Purple"
+  },
+  {
+    "Mulank":3,
+    "Bhagyank":9,
+    "Lord_Planet":"Jupiter",
+    "luck":80,
+    "Qualities":"Knowledgable, joyfull, workoholic, Talent of adaptability, Power of salesman, Different personality, Dicipline ",
+    "Lucky_number":"1,3,5",
+    "Lucky_colour":"Yellow, Purple"
+  },
+  {
+    "Mulank":4,
+    "Bhagyank":1,
+    "Lord_Planet":"Rahu",
+    "luck":70,
+    "Qualities":"Practical, No friends Alone, Dissaticfaction, illusion, Thinking power, Unique Thinker, Master plan always fails, Miscommunication ",
+    "Lucky_number":"1,5,6",
+    "Lucky_colour":"Grey, Greyish-black"
+  },
+  {
+    "Mulank":4,
+    "Bhagyank":2,
+    "Lord_Planet":"Rahu",
+    "luck":40,
+    "Qualities":"Practical, No friends Alone, Dissaticfaction, illusion, Thinking power, Unique Thinker, Master plan always fails, Miscommunication ",
+    "Lucky_number":"1,5",
+    "Lucky_colour":"Grey, Greyish-black"
+  },
+  {
+    "Mulank":4,
+    "Bhagyank":3,
+    "Lord_Planet":"Rahu",
+    "luck":50,
+    "Qualities":"Practical, No friends Alone, Dissaticfaction, illusion, Thinking power, Unique Thinker, Master plan always fails, Miscommunication ",
+    "Lucky_number":"1,5",
+    "Lucky_colour":"Grey, Greyish-black"
+  },
+  {
+    "Mulank":4,
+    "Bhagyank":4,
+    "Lord_Planet":"Rahu",
+    "luck":30,
+    "Qualities":"Practical, No friends Alone, Dissaticfaction, illusion, Thinking power, Unique Thinker, Master plan always fails, Miscommunication ",
+    "Lucky_number":"1,5,6,7",
+    "Lucky_colour":"Grey, Greyish-black"
+  },
+  {
+    "Mulank":4,
+    "Bhagyank":5,
+    "Lord_Planet":"Rahu",
+    "luck":60,
+    "Qualities":"Practical, No friends Alone, Dissaticfaction, illusion, Thinking power, Unique Thinker, Master plan always fails, Miscommunication ",
+    "Lucky_number":"1,5,6",
+    "Lucky_colour":"Grey, Greyish-black"
+  },
+  {
+    "Mulank":4,
+    "Bhagyank":6,
+    "Lord_Planet":"Rahu",
+    "luck":60,
+    "Qualities":"Practical, No friends Alone, Dissaticfaction, illusion, Thinking power, Unique Thinker, Master plan always fails, Miscommunication ",
+    "Lucky_number":"1,5,6,7",
+    "Lucky_colour":"Grey, Greyish-black"
+  },
+  {
+    "Mulank":4,
+    "Bhagyank":7,
+    "Lord_Planet":"Rahu",
+    "luck":80,
+    "Qualities":"Practical, No friends Alone, Dissaticfaction, illusion, Thinking power, Unique Thinker, Master plan always fails, Miscommunication ",
+    "Lucky_number":"1,5,6",
+    "Lucky_colour":"Grey, Greyish-black"
+  },
+  {
+    "Mulank":4,
+    "Bhagyank":8,
+    "Lord_Planet":"Rahu",
+    "luck":20,
+    "Qualities":"Practical, No friends Alone, Dissaticfaction, illusion, Thinking power, Unique Thinker, Master plan always fails, Miscommunication ",
+    "Lucky_number":"5,6,7",
+    "Lucky_colour":"Grey, Greyish-black"
+  },
+  {
+    "Mulank":4,
+    "Bhagyank":9,
+    "Lord_Planet":"Rahu",
+    "luck":20,
+    "Qualities":"Practical, No friends Alone, Dissaticfaction, illusion, Thinking power, Unique Thinker, Master plan always fails, Miscommunication ",
+    "Lucky_number":"1,5",
+    "Lucky_colour":"Grey, Greyish-black"
+  },
+  {
+    "Mulank":5,
+    "Bhagyank":1,
+    "Lord_Planet":"Mercury",
+    "luck":80,
+    "Qualities":"Business sence mind, Combination of lazy and hardworking, Power of adjustable, Zero to hero luck, Cute smile, Multitasking, Mutltitalented, Family first",
+    "Lucky_number":"1,2,3,5,6",
+    "Lucky_colour":"Green, turquoise"
+  },
+  {
+    "Mulank":5,
+    "Bhagyank":2,
+    "Lord_Planet":"Mercury",
+    "luck":70,
+    "Qualities":"Business sence mind, Combination of lazy and hardworking, Power of adjustable, Zero to hero luck, Cute smile, Multitasking, Mutltitalented, Family first",
+    "Lucky_number":"1,2,3,5",
+    "Lucky_colour":"Green, turquoise"
+  },
+  {
+    "Mulank":5,
+    "Bhagyank":3,
+    "Lord_Planet":"Mercury",
+    "luck":60,
+    "Qualities":"Business sence mind, Combination of lazy and hardworking, Power of adjustable, Zero to hero luck, Cute smile, Multitasking, Mutltitalented, Family first",
+    "Lucky_number":"1,2,3,5",
+    "Lucky_colour":"Green, turquoise"
+  },
+  {
+    "Mulank":5,
+    "Bhagyank":4,
+    "Lord_Planet":"Mercury",
+    "luck":40,
+    "Qualities":"Business sence mind, Combination of lazy and hardworking, Power of adjustable, Zero to hero luck, Cute smile, Multitasking, Mutltitalented, Family first",
+    "Lucky_number":"1,5,6",
+    "Lucky_colour":"Green, turquoise"
+  },
+  {
+    "Mulank":5,
+    "Bhagyank":5,
+    "Lord_Planet":"Mercury",
+    "luck":80,
+    "Qualities":"Business sence mind, Combination of lazy and hardworking, Power of adjustable, Zero to hero luck, Cute smile, Multitasking, Mutltitalented, Family first",
+    "Lucky_number":"1,2,3,5,6",
+    "Lucky_colour":"Green, turquoise"
+  },
+  {
+    "Mulank":5,
+    "Bhagyank":6,
+    "Lord_Planet":"Mercury",
+    "luck":90,
+    "Qualities":"Business sence mind, Combination of lazy and hardworking, Power of adjustable, Zero to hero luck, Cute smile, Multitasking, Mutltitalented, Family first",
+    "Lucky_number":"1,5,6",
+    "Lucky_colour":"Green, turquoise"
+  },
+  {
+    "Mulank":5,
+    "Bhagyank":7,
+    "Lord_Planet":"Mercury",
+    "luck":60,
+    "Qualities":"Business sence mind, Combination of lazy and hardworking, Power of adjustable, Zero to hero luck, Cute smile, Multitasking, Mutltitalented, Family first",
+    "Lucky_number":"1,3,5,6",
+    "Lucky_colour":"Green, turquoise"
+  },
+  {
+    "Mulank":5,
+    "Bhagyank":8,
+    "Lord_Planet":"Mercury",
+    "luck":60,
+    "Qualities":"Business sence mind, Combination of lazy and hardworking, Power of adjustable, Zero to hero luck, Cute smile, Multitasking, Mutltitalented, Family first",
+    "Lucky_number":"3,5,6",
+    "Lucky_colour":"Green, turquoise"
+  },
+  {
+    "Mulank":5,
+    "Bhagyank":9,
+    "Lord_Planet":"Mercury",
+    "luck":60,
+    "Qualities":"Business sence mind, Combination of lazy and hardworking, Power of adjustable, Zero to hero luck, Cute smile, Multitasking, Mutltitalented, Family first",
+    "Lucky_number":"1,3,5",
+    "Lucky_colour":"Green, turquoise"
+  },
+  {
+    "Mulank":6,
+    "Bhagyank":1,
+    "Lord_Planet":"Venus",
+    "luck":70,
+    "Qualities":"Loves luxury, chance of love marriage, Good in parenting, helping nature, Dissapointed by helping others",
+    "Lucky_number":"1,5,6",
+    "Lucky_colour":"White, Blue, Light Blue, Pink"
+  },
+  {
+    "Mulank":6,
+    "Bhagyank":2,
+    "Lord_Planet":"Venus",
+    "luck":40,
+    "Qualities":"Loves luxury, chance of love marriage, Good in parenting, helping nature, Dissapointed by helping others",
+    "Lucky_number":"1,5",
+    "Lucky_colour":"White, Blue, Light Blue, Pink"
+  },
+  {
+    "Mulank":6,
+    "Bhagyank":3,
+    "Lord_Planet":"Venus",
+    "luck":0,
+    "Qualities":"Loves luxury, chance of love marriage, Good in parenting, helping nature, Dissapointed by helping others",
+    "Lucky_number":"1,5",
+    "Lucky_colour":"White, Blue, Light Blue, Pink"
+  },
+  {
+    "Mulank":6,
+    "Bhagyank":4,
+    "Lord_Planet":"Venus",
+    "luck":60,
+    "Qualities":"Loves luxury, chance of love marriage, Good in parenting, helping nature, Dissapointed by helping others",
+    "Lucky_number":"1,5,6,7",
+    "Lucky_colour":"White, Blue, Light Blue, Pink"
+  },
+  {
+    "Mulank":6,
+    "Bhagyank":5,
+    "Lord_Planet":"Venus",
+    "luck":90,
+    "Qualities":"Loves luxury, chance of love marriage, Good in parenting, helping nature, Dissapointed by helping others",
+    "Lucky_number":"1,5,6",
+    "Lucky_colour":"White, Blue, Light Blue, Pink"
+  },
+  {
+    "Mulank":6,
+    "Bhagyank":6,
+    "Lord_Planet":"Venus",
+    "luck":80,
+    "Qualities":"Loves luxury, chance of love marriage, Good in parenting, helping nature, Dissapointed by helping others",
+    "Lucky_number":"1,4,5,6,7",
+    "Lucky_colour":"White, Blue, Light Blue, Pink"
+  },
+  {
+    "Mulank":6,
+    "Bhagyank":7,
+    "Lord_Planet":"Venus",
+    "luck":70,
+    "Qualities":"Loves luxury, chance of love marriage, Good in parenting, helping nature, Dissapointed by helping others",
+    "Lucky_number":"1,4,5,6",
+    "Lucky_colour":"White, Blue, Light Blue, Pink"
+  },
+  {
+    "Mulank":6,
+    "Bhagyank":8,
+    "Lord_Planet":"Venus",
+    "luck":60,
+    "Qualities":"Loves luxury, chance of love marriage, Good in parenting, helping nature, Dissapointed by helping others",
+    "Lucky_number":"5,6,7",
+    "Lucky_colour":"White, Blue, Light Blue, Pink"
+  },
+  {
+    "Mulank":6,
+    "Bhagyank":9,
+    "Lord_Planet":"Venus",
+    "luck":60,
+    "Qualities":"Loves luxury, chance of love marriage, Good in parenting, helping nature, Dissapointed by helping others",
+    "Lucky_number":"1,5",
+    "Lucky_colour":"White, Blue, Light Blue, Pink"
+  },
+  {
+    "Mulank":7,
+    "Bhagyank":1,
+    "Lord_Planet":"Ketu",
+    "luck":60,
+    "Qualities":"Alone, Dissatisfaction, curosity to know cult, Great intution power, Manifastation power, Get bore in relationship, Confusion, love philosphy",
+    "Lucky_number":"1,3,5,6",
+    "Lucky_colour":"Smokey brown, Greyish green"
+  },
+  {
+    "Mulank":7,
+    "Bhagyank":2,
+    "Lord_Planet":"Ketu",
+    "luck":40,
+    "Qualities":"Alone, Dissatisfaction, curosity to know ocult, Great intution power, Manifastation power, Get bore in relationship, Confusion, love philosphy",
+    "Lucky_number":"1,3,5",
+    "Lucky_colour":"Smokey brown, Greyish green"
+  },
+  {
+    "Mulank":7,
+    "Bhagyank":3,
+    "Lord_Planet":"Ketu",
+    "luck":60,
+    "Qualities":"Alone, Dissatisfaction, curosity to know ocult, Great intution power, Manifastation power, Get bore in relationship, Confusion, love philosphy",
+    "Lucky_number":"1,3,5",
+    "Lucky_colour":"Smokey brown, Greyish green"
+  },
+  {
+    "Mulank":7,
+    "Bhagyank":4,
+    "Lord_Planet":"Ketu",
+    "luck":60,
+    "Qualities":"Alone, Dissatisfaction, curosity to know ocult, Great intution power, Manifastation power, Get bore in relationship, Confusion, love philosphy",
+    "Lucky_number":"1,5,6",
+    "Lucky_colour":"Smokey brown, Greyish green"
+  },
+  {
+    "Mulank":7,
+    "Bhagyank":5,
+    "Lord_Planet":"Ketu",
+    "luck":60,
+    "Qualities":"Alone, Dissatisfaction, curosity to know ocult, Great intution power, Manifastation power, Get bore in relationship, Confusion, love philosphy",
+    "Lucky_number":"1,3,5,6",
+    "Lucky_colour":"Smokey brown, Greyish green"
+  },
+  {
+    "Mulank":7,
+    "Bhagyank":6,
+    "Lord_Planet":"Ketu",
+    "luck":80,
+    "Qualities":"Alone, Dissatisfaction, curosity to know ocult, Great intution power, Manifastation power, Get bore in relationship, Confusion, love philosphy",
+    "Lucky_number":"1,4,5,6",
+    "Lucky_colour":"Smokey brown, Greyish green"
+  },
+  {
+    "Mulank":7,
+    "Bhagyank":7,
+    "Lord_Planet":"Ketu",
+    "luck":20,
+    "Qualities":"Alone, Dissatisfaction, curosity to know ocult, Great intution power, Manifastation power, Get bore in relationship, Confusion, love philosphy",
+    "Lucky_number":"1,3,4,5,6",
+    "Lucky_colour":"Smokey brown, Greyish green"
+  },
+  {
+    "Mulank":7,
+    "Bhagyank":8,
+    "Lord_Planet":"Ketu",
+    "luck":20,
+    "Qualities":"Alone, Dissatisfaction, curosity to know ocult, Great intution power, Manifastation power, Get bore in relationship, Confusion, love philosphy",
+    "Lucky_number":"3,5,6",
+    "Lucky_colour":"Smokey brown, Greyish green"
+  },
+  {
+    "Mulank":7,
+    "Bhagyank":9,
+    "Lord_Planet":"Ketu",
+    "luck":80,
+    "Qualities":"Alone, Dissatisfaction, curosity to know ocult, Great intution power, Manifastation power, Get bore in relationship, Confusion, love philosphy",
+    "Lucky_number":"1,3,5",
+    "Lucky_colour":"Smokey brown, Greyish green"
+  },
+  {
+    "Mulank":8,
+    "Bhagyank":1,
+    "Lord_Planet":"Saturn",
+    "luck":0,
+    "Qualities":"Instant karma, Very hardwork, life full of strrugle, resourcefull person, multitalented, good in finance, Delay in life, Wealthy number",
+    "Lucky_number":"3,5,6",
+    "Lucky_colour":"Dark blue, Black"
+  },
+  {
+    "Mulank":8,
+    "Bhagyank":2,
+    "Lord_Planet":"Saturn",
+    "luck":0,
+    "Qualities":"Instant karma, Very hardwork, life full of strrugle, resourcefull person, multitalented, good in finance, Delay in life, Wealthy number",
+    "Lucky_number":"3,5",
+    "Lucky_colour":"Dark blue, Black"
+  },
+  {
+    "Mulank":8,
+    "Bhagyank":3,
+    "Lord_Planet":"Saturn",
+    "luck":40,
+    "Qualities":"Instant karma, Very hardwork, life full of strrugle, resourcefull person, multitalented, good in finance, Delay in life, Wealthy number",
+    "Lucky_number":"3,5",
+    "Lucky_colour":"Dark blue, Black"
+  },
+  {
+    "Mulank":8,
+    "Bhagyank":4,
+    "Lord_Planet":"Saturn",
+    "luck":20,
+    "Qualities":"Instant karma, Very hardwork, life full of strrugle, resourcefull person, multitalented, good in finance, Delay in life, Wealthy number",
+    "Lucky_number":"5,6,7",
+    "Lucky_colour":"Dark blue, Black"
+  },
+  {
+    "Mulank":8,
+    "Bhagyank":5,
+    "Lord_Planet":"Saturn",
+    "luck":60,
+    "Qualities":"Instant karma, Very hardwork, life full of strrugle, resourcefull person, multitalented, good in finance, Delay in life, Wealthy number",
+    "Lucky_number":"3,5,6",
+    "Lucky_colour":"Dark blue, Black"
+  },
+  {
+    "Mulank":8,
+    "Bhagyank":6,
+    "Lord_Planet":"Saturn",
+    "luck":60,
+    "Qualities":"Instant karma, Very hardwork, life full of strrugle, resourcefull person, multitalented, good in finance, Delay in life, Wealthy number",
+    "Lucky_number":"5,6,7",
+    "Lucky_colour":"Dark blue, Black"
+  },
+  {
+    "Mulank":8,
+    "Bhagyank":7,
+    "Lord_Planet":"Saturn",
+    "luck":40,
+    "Qualities":"Instant karma, Very hardwork, life full of strrugle, resourcefull person, multitalented, good in finance, Delay in life, Wealthy number",
+    "Lucky_number":"3,5,6",
+    "Lucky_colour":"Dark blue, Black"
+  },
+  {
+    "Mulank":8,
+    "Bhagyank":8,
+    "Lord_Planet":"Saturn",
+    "luck":20,
+    "Qualities":"Instant karma, Very hardwork, life full of strrugle, resourcefull person, multitalented, good in finance, Delay in life, Wealthy number",
+    "Lucky_number":"3,5,6,7",
+    "Lucky_colour":"Dark blue, Black"
+  },
+  {
+    "Mulank":8,
+    "Bhagyank":9,
+    "Lord_Planet":"Saturn",
+    "luck":20,
+    "Qualities":"Instant karma, Very hardwork, life full of strrugle, resourcefull person, multitalented, good in finance, Delay in life, Wealthy number",
+    "Lucky_number":"3,5",
+    "Lucky_colour":"Dark blue, Black"
+  },
+  {
+    "Mulank":9,
+    "Bhagyank":1,
+    "Lord_Planet":"Mars",
+    "luck":80,
+    "Qualities":"Energitic person, feel frustated if they are free, Anger, Commander like personality, courageous, loves doing exercise, Want to change the world, Ambition, skin problem",
+    "Lucky_number":"1,3,5",
+    "Lucky_colour":"Red, Maroon, Rose"
+  },
+  {
+    "Mulank":9,
+    "Bhagyank":2,
+    "Lord_Planet":"Mars",
+    "luck":20,
+    "Qualities":"Energitic person, feel frustated if they are free, Anger, Commander like personality, courageous, loves doing exercise, Want to change the world, Ambition, skin problem",
+    "Lucky_number":"1,3,5",
+    "Lucky_colour":"Red, Maroon, Rose"
+  },
+  {
+    "Mulank":9,
+    "Bhagyank":3,
+    "Lord_Planet":"Mars",
+    "luck":50,
+    "Qualities":"Energitic person, feel frustated if they are free, Anger, Commander like personality, courageous, loves doing exercise, Want to change the world, Ambition, skin problem",
+    "Lucky_number":"1,3,5",
+    "Lucky_colour":"Red, Maroon, Rose"
+  },
+  {
+    "Mulank":9,
+    "Bhagyank":4,
+    "Lord_Planet":"Mars",
+    "luck":30,
+    "Qualities":"Energitic person, feel frustated if they are free, Anger, Commander like personality, courageous, loves doing exercise, Want to change the world, Ambition, skin problem",
+    "Lucky_number":"1,5",
+    "Lucky_colour":"Red, Maroon, Rose"
+  },
+  {
+    "Mulank":9,
+    "Bhagyank":5,
+    "Lord_Planet":"Mars",
+    "luck":60,
+    "Qualities":"Energitic person, feel frustated if they are free, Anger, Commander like personality, courageous, loves doing exercise, Want to change the world, Ambition, skin problem",
+    "Lucky_number":"1,3,5",
+    "Lucky_colour":"Red, Maroon, Rose"
+  },
+  {
+    "Mulank":9,
+    "Bhagyank":6,
+    "Lord_Planet":"Mars",
+    "luck":40,
+    "Qualities":"Energitic person, feel frustated if they are free, Anger, Commander like personality, courageous, loves doing exercise, Want to change the world, Ambition, skin problem",
+    "Lucky_number":"1,5",
+    "Lucky_colour":"Red, Maroon, Rose"
+  },
+  {
+    "Mulank":9,
+    "Bhagyank":7,
+    "Lord_Planet":"Mars",
+    "luck":20,
+    "Qualities":"Energitic person, feel frustated if they are free, Anger, Commander like personality, courageous, loves doing exercise, Want to change the world, Ambition, skin problem",
+    "Lucky_number":"1,3,5",
+    "Lucky_colour":"Red, Maroon, Rose"
+  },
+  {
+    "Mulank":9,
+    "Bhagyank":8,
+    "Lord_Planet":"Mars",
+    "luck":40,
+    "Qualities":"Energitic person, feel frustated if they are free, Anger, Commander like personality, courageous, loves doing exercise, Want to change the world, Ambition, skin problem",
+    "Lucky_number":"3,5",
+    "Lucky_colour":"Red, Maroon, Rose"
+  },
+  {
+    "Mulank":9,
+    "Bhagyank":9,
+    "Lord_Planet":"Mars",
+    "luck":20,
+    "Qualities":"Energitic person, feel frustated if they are free, Anger, Commander like personality, courageous, loves doing exercise, Want to change the world, Ambition, skin problem",
+    "Lucky_number":"1,3,5",
+    "Lucky_colour":"Red, Maroon, Rose"
+  }
+]

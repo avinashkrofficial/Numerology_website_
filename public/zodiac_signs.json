@@ -1,0 +1,237 @@
+[
+  {
+    "sign": "Aries",
+    "date_of_birth": "03-21 to 04-19",
+    "symbol": "Ram",
+    "element": "Fire",
+    "ruling_planet": "Mars",
+    "strengths": [
+      "Positive attitude",
+      "Energetic",
+      "Bravery",
+      "Adventurous",
+      "Honest",
+      "Versatility",
+      "Passionate",
+      "Argumentative",
+      "Generous",
+      "Cheerful",
+      "Curious"
+    ],
+    "weaknesses": [
+      "Impulsiveness",
+      "Naive",
+      "Impatience"
+    ]
+  },
+  {
+    "sign": "Taurus",
+    "date_of_birth": "04-20 to 05-20",
+    "symbol": "Bull",
+    "element": "Earth",
+    "ruling_planet": "Venus",
+    "strengths": [
+      "Romantic",
+      "Ardent",
+      "Patient",
+      "Decisive",
+      "Logical",
+      "Artistic",
+      "Benevolent"
+    ],
+    "weaknesses": [
+      "Prejudiced",
+      "Stubborn",
+      "Dependent"
+    ]
+  },
+  {
+    "sign": "Gemini",
+    "date_of_birth": "05-21 to 06-21",
+    "symbol": "Twins",
+    "element": "Air",
+    "ruling_planet": "Mercury",
+    "strengths": [
+      "Perspicacious",
+      "Smart",
+      "Cheerful",
+      "Clement"
+    ],
+    "weaknesses": [
+      "Gossiping",
+      "Cold-blooded"
+    ]
+  },
+  {
+    "sign": "Cancer",
+    "date_of_birth": "06-22 to 07-22",
+    "symbol": "Crab",
+    "element": "Water",
+    "ruling_planet": "Moon",
+    "strengths": [
+      "Strong sixth sense",
+      "Gentle",
+      "Imaginative",
+      "Dedicated",
+      "Perseverant",
+      "Kind"
+    ],
+    "weaknesses": [
+      "Greedy",
+      "Sensitive",
+      "Possessive",
+      "Prim"
+    ]
+  },
+  {
+    "sign": "Leo",
+    "date_of_birth": "07-23 to 08-22",
+    "symbol": "Lion",
+    "element": "Fire",
+    "ruling_planet": "Sun",
+    "strengths": [
+      "Pride",
+      "Charitable nature",
+      "Loyal",
+      "Enthusiastic"
+    ],
+    "weaknesses": [
+      "Arrogant",
+      "Vain",
+      "Indulgent",
+      "Self-complacent"
+    ]
+  },
+  {
+    "sign": "Virgo",
+    "date_of_birth": "08-23 to 09-22",
+    "symbol": "Virgin maiden",
+    "element": "Earth",
+    "ruling_planet": "Mercury",
+    "strengths": [
+      "Helping others",
+      "Perfectionist",
+      "Modest",
+      "Practical"
+    ],
+    "weaknesses": [
+      "Picky",
+      "Nosey",
+      "Confining"
+    ]
+  },
+  {
+    "sign": "Libra",
+    "date_of_birth": "09-23 to 10-23",
+    "symbol": "Scales",
+    "element": "Air",
+    "ruling_planet": "Venus",
+    "strengths": [
+      "Ideal",
+      "Strong social skills",
+      "Artistic",
+      "Beautiful",
+      "Aesthetic",
+      "Kind-hearted"
+    ],
+    "weaknesses": [
+      "Hesitant",
+      "Narcissistic",
+      "Freewheeling"
+    ]
+  },
+  {
+    "sign": "Scorpio",
+    "date_of_birth": "10-24 to 11-22",
+    "symbol": "Scorpion",
+    "element": "Water",
+    "ruling_planet": "Pluto, Mars",
+    "strengths": [
+      "Mysterious",
+      "Intelligent",
+      "Independent",
+      "Intuitive",
+      "Insightful",
+      "Sensible"
+    ],
+    "weaknesses": [
+      "Suspicious",
+      "Complicated",
+      "Possessive",
+      "Arrogant"
+    ]
+  },
+  {
+    "sign": "Sagittarius",
+    "date_of_birth": "11-23 to 12-21",
+    "symbol": "Archer",
+    "element": "Fire",
+    "ruling_planet": "Jupiter",
+    "strengths": [
+      "Insightful",
+      "Superior",
+      "Brave",
+      "Beautiful",
+      "Optimistic"
+    ],
+    "weaknesses": [
+      "Forgetful",
+      "Careless"
+    ]
+  },
+  {
+    "sign": "Capricorn",
+    "date_of_birth": "12-22 to 01-19",
+    "symbol": "Goat",
+    "element": "Earth",
+    "ruling_planet": "Saturn",
+    "strengths": [
+      "Intelligent",
+      "Practical",
+      "Reliable",
+      "Generous",
+      "Optimistic"
+    ],
+    "weaknesses": [
+      "Stubborn",
+      "Suspicious"
+    ]
+  },
+  {
+    "sign": "Aquarius",
+    "date_of_birth": "01-20 to 02-18",
+    "symbol": "Water carrier",
+    "element": "Air",
+    "ruling_planet": "Uranus",
+    "strengths": [
+      "Tolerant",
+      "Independent",
+      "Smart",
+      "Friendly",
+      "Charitable"
+    ],
+    "weaknesses": [
+      "Disobedient",
+      "Liberalistic",
+      "Rebel"
+    ]
+  },
+  {
+    "sign": "Pisces",
+    "date_of_birth": "02-19 to 03-20",
+    "symbol": "Fish",
+    "element": "Water",
+    "ruling_planet": "Jupiter/Neptune",
+    "strengths": [
+      "Aesthetic",
+      "Dedicated",
+      "Kind",
+      "Good temper"
+    ],
+    "weaknesses": [
+      "Sentimental",
+      "Indecisive",
+      "Unrealistic"
+    ]
+  }
+]
